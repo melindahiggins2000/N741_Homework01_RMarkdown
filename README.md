@@ -13,16 +13,6 @@ NRSG 741 - Homework 01 - Getting started with RMarkdown
 
 NOTE: You should have 8 sections in your final updated report for Homework 01.
 
-==========================================
-# ANSWER KEY
-==========================================
-
-* Rmarkdown file for ANSWER KEY [https://github.com/melindahiggins2000/N741_Homework01_RMarkdown/raw/master/answerKey/abalonesReport_HW1answerKey.Rmd](https://github.com/melindahiggins2000/N741_Homework01_RMarkdown/raw/master/answerKey/abalonesReport_HW1answerKey.Rmd)
-* HTML document for ANSWER KEY [https://melindahiggins2000.github.io/N741_Homework01_RMarkdown/abalonesReport_HW1answerKey.html](https://melindahiggins2000.github.io/N741_Homework01_RMarkdown/abalonesReport_HW1answerKey.html)
-* DOCX document for ANSWER KEY [https://github.com/melindahiggins2000/N741_Homework01_RMarkdown/raw/master/answerKey/abalonesReport_HW1answerKey.docx](https://github.com/melindahiggins2000/N741_Homework01_RMarkdown/raw/master/answerKey/abalonesReport_HW1answerKey.docx)
-* PDF document for ANSWER KEY [https://github.com/melindahiggins2000/N741_Homework01_RMarkdown/raw/master/answerKey/abalonesReport_HW1answerKey.pdf](https://github.com/melindahiggins2000/N741_Homework01_RMarkdown/raw/master/answerKey/abalonesReport_HW1answerKey.pdf)
-
-
 
 
 
